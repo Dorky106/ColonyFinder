@@ -1,0 +1,8 @@
+{
+	"types" : {
+		"colonyfinder.compass" : "Colony Finder"
+	},
+	"typeuses" : {
+		"colonyfinder.compass" : "No bread crumbs needed"
+	}
+}
